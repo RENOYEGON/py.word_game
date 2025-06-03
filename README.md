@@ -7,20 +7,17 @@ This terminal version of the Wordle game
 <img src="Game_snippet.png" alt="alt text" width="70%">
 
 ## Table of Contents
-- [Py.word Game](#pyword-game)
-      - [Py.word Game snippet:](#pyword-game-snippet)
-  - [Table of Contents](#table-of-contents)
-  - [Project Overview](#project-overview)
-  - [Game Rules](#game-rules)
-  - [Error Prevention and Added Features](#error-prevention-and-added-features)
-  - [Key Features](#key-features)
-  - [Installation](#installation)
-  - [Tech used](#tech-used)
-  - [Main files](#main-files)
-  - [Required Libraries](#required-libraries)
-  - [What Can Be Improved and Future Enhancements](#what-can-be-improved-and-future-enhancements)
-  - [Contributions](#contributions)
-    - [Contribution Guidelines](#contribution-guidelines)
+1. [Project Overview](#project-overview)
+2. [Game Rules](#game-rules)
+3. [Error Prevention and Added Features](#error-prevention-and-added-features)
+4. [Key Features](#key-features)
+5. [Installation](#installation)
+6. [Tech used](#tech-used)
+7. [Main files](#main-files)
+8. [Required Libraries](#required-libraries)
+9. [What Can Be Improved and Future Enhancements](#what-can-be-improved-and-future-enhancements)
+10. [Contributions](#contributions)
+   1. [Contribution Guidelines](#contribution-guidelines)
 
 ## Project Overview
 
